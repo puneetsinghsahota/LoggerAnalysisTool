@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerAnalysisTool", "LoggerAnalysisTool\LoggerAnalysisTool.csproj", "{DB5803EC-B77B-4EDC-8822-40D36A2D363E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5803EC-B77B-4EDC-8822-40D36A2D363E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5803EC-B77B-4EDC-8822-40D36A2D363E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5803EC-B77B-4EDC-8822-40D36A2D363E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5803EC-B77B-4EDC-8822-40D36A2D363E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5305D33B-3CA5-4933-A0BD-F55F623204B5}
+	EndGlobalSection
+EndGlobal
